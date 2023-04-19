@@ -1,0 +1,4 @@
+*.index
+*.pkl
+nohup.out
+*.json

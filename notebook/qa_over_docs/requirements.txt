@@ -1,0 +1,5 @@
+langchain
+pdfminer.six
+faiss-cpu
+tiktoken
+openai
